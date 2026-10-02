@@ -1,0 +1,10 @@
+Hyppiminen paremmaks (pieni aika ennen hyppyä animaatiota varten, nopeempi tippuminen, korkeus riippuu pisteistä)
+ei pysty tönimään rakennuksia ILMASSA
+kävelyanimaatio hidastuu pisteiden myötä
+lyöntien korjaus (colliderien animointi uusiks, uppercut lyö mahdollisimman alhaalta)
+objection tuhoutuminen (tällä hetkellä tietyt animaatiot ja äänet kuuluvat vain silloin kun pelaaja koskee niihin niiden tuhoutuessa)
+UI (2 simppelii mittarii jotka nousee sitä mukaa kun saa pisteitä, molemmille pelaajille omat)
+Uus spidermodeli ja animaatiot
+uusien kärmes animaatioiden laitto
+Timeri jonka loputtua ilmotetaan voittaja ja voitto screeni ilmestyy (leijuva pokaali ala Tuomo)
+controllit ohjailemille
