@@ -1,0 +1,1832 @@
+fileFormatVersion: 2
+guid: 7916b815257ac97439da54c1e2ccd967
+timeCreated: 1440262120
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: ArmLeft
+    100002: ArmRight
+    100004: aweqwe
+    100006: Bone005
+    100008: Bone006
+    100010: Bone010
+    100012: Bone012
+    100014: Bone013
+    100016: Bone014
+    100018: Bone017
+    100020: Bone018
+    100022: Bone019
+    100024: Bone022
+    100026: Bone023
+    100028: Bone023 1
+    100030: Bone024
+    100032: Bone024 1
+    100034: Bone025
+    100036: Bone026
+    100038: Bone031
+    100040: Bone032
+    100042: Bone033
+    100044: Bone034
+    100046: Bone045
+    100048: Bone046
+    100050: Bone047
+    100052: Bone048
+    100054: Bone049
+    100056: Bone050
+    100058: Bone051
+    100060: Bone052
+    100062: Bone053
+    100064: Bone054
+    100066: Bone056
+    100068: Bone058
+    100070: Bone060
+    100072: Bone061
+    100074: Bone062
+    100076: Bone063
+    100078: Bone064
+    100080: ButtAndLegs
+    100082: Chest
+    100084: Chest 1
+    100086: connectBone001
+    100088: connectBone002
+    100090: connectBone003
+    100092: connectBone004
+    100094: connectBone005
+    100096: connectBone006
+    100098: connectBone007
+    100100: connectBone008
+    100102: connectBone009
+    100104: connectBone010
+    100106: connectBone011
+    100108: connectBone012
+    100110: connectBone013
+    100112: EndOfButt
+    100114: eqweqwe
+    100116: ewqqq
+    100118: Eye001
+    100120: Eye002
+    100122: Eye003
+    100124: Eye004
+    100126: Eye005
+    100128: Eye006
+    100130: Eye007
+    100132: Eye008
+    100134: GeoSphere001
+    100136: Head
+    100138: Head 1
+    100140: Head_leg_Low_left
+    100142: Head_leg_Low_right
+    100144: Head_leg_Up_Left
+    100146: Head_leg_up_Right
+    100148: L_Arm_Joint
+    100150: L_Arm_Lower
+    100152: L_Arm_Upper
+    100154: Mouth_Pincer_Left
+    100156: Mouth_Pincer_Left_Base
+    100158: Mouth_Pincer_Right
+    100160: Mouth_Pincer_Right_base
+    100162: qwe
+    100164: qweqw
+    100166: qweqwe
+    100168: qweqwe 1
+    100170: qweqwe 2
+    100172: qweqwe 3
+    100174: qweqwe 4
+    100176: qweqwe 5
+    100178: qweqwe 6
+    100180: R_Arm_Upper
+    100182: //RootNode
+    100184: TailBone
+    400000: ArmLeft
+    400002: ArmRight
+    400004: aweqwe
+    400006: Bone005
+    400008: Bone006
+    400010: Bone010
+    400012: Bone012
+    400014: Bone013
+    400016: Bone014
+    400018: Bone017
+    400020: Bone018
+    400022: Bone019
+    400024: Bone022
+    400026: Bone023
+    400028: Bone023 1
+    400030: Bone024
+    400032: Bone024 1
+    400034: Bone025
+    400036: Bone026
+    400038: Bone031
+    400040: Bone032
+    400042: Bone033
+    400044: Bone034
+    400046: Bone045
+    400048: Bone046
+    400050: Bone047
+    400052: Bone048
+    400054: Bone049
+    400056: Bone050
+    400058: Bone051
+    400060: Bone052
+    400062: Bone053
+    400064: Bone054
+    400066: Bone056
+    400068: Bone058
+    400070: Bone060
+    400072: Bone061
+    400074: Bone062
+    400076: Bone063
+    400078: Bone064
+    400080: ButtAndLegs
+    400082: Chest
+    400084: Chest 1
+    400086: connectBone001
+    400088: connectBone002
+    400090: connectBone003
+    400092: connectBone004
+    400094: connectBone005
+    400096: connectBone006
+    400098: connectBone007
+    400100: connectBone008
+    400102: connectBone009
+    400104: connectBone010
+    400106: connectBone011
+    400108: connectBone012
+    400110: connectBone013
+    400112: EndOfButt
+    400114: eqweqwe
+    400116: ewqqq
+    400118: Eye001
+    400120: Eye002
+    400122: Eye003
+    400124: Eye004
+    400126: Eye005
+    400128: Eye006
+    400130: Eye007
+    400132: Eye008
+    400134: GeoSphere001
+    400136: Head
+    400138: Head 1
+    400140: Head_leg_Low_left
+    400142: Head_leg_Low_right
+    400144: Head_leg_Up_Left
+    400146: Head_leg_up_Right
+    400148: L_Arm_Joint
+    400150: L_Arm_Lower
+    400152: L_Arm_Upper
+    400154: Mouth_Pincer_Left
+    400156: Mouth_Pincer_Left_Base
+    400158: Mouth_Pincer_Right
+    400160: Mouth_Pincer_Right_base
+    400162: qwe
+    400164: qweqw
+    400166: qweqwe
+    400168: qweqwe 1
+    400170: qweqwe 2
+    400172: qweqwe 3
+    400174: qweqwe 4
+    400176: qweqwe 5
+    400178: qweqwe 6
+    400180: R_Arm_Upper
+    400182: //RootNode
+    400184: TailBone
+    4300000: Chest
+    4300002: ButtAndLegs
+    4300004: Head
+    4300006: ArmRight
+    4300008: ArmLeft
+    4300010: Eye002
+    4300012: Eye001
+    4300014: Eye006
+    4300016: Eye005
+    4300018: Eye007
+    4300020: Eye008
+    4300022: Eye003
+    4300024: Eye004
+    4300026: GeoSphere001
+    7400000: Take 001
+    7400002: Walk
+    7400004: Idle
+    7400006: LeftPunch
+    7400008: Uppercut
+    7400010: Jump
+    9500000: //RootNode
+    13700000: ArmLeft
+    13700002: ArmRight
+    13700004: ButtAndLegs
+    13700006: Chest
+    13700008: Eye001
+    13700010: Eye002
+    13700012: Eye003
+    13700014: Eye004
+    13700016: Eye005
+    13700018: Eye006
+    13700020: Eye007
+    13700022: Eye008
+    13700024: GeoSphere001
+    13700026: Head
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Take 001
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 200
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: ArmLeft
+        weight: 1
+      - path: ArmRight
+        weight: 1
+      - path: ButtAndLegs
+        weight: 1
+      - path: Chest
+        weight: 1
+      - path: Eye001
+        weight: 1
+      - path: Eye002
+        weight: 1
+      - path: Eye003
+        weight: 1
+      - path: Eye004
+        weight: 1
+      - path: Eye005
+        weight: 1
+      - path: Eye006
+        weight: 1
+      - path: Eye007
+        weight: 1
+      - path: Eye008
+        weight: 1
+      - path: GeoSphere001
+        weight: 1
+      - path: Head
+        weight: 1
+      - path: TailBone
+        weight: 1
+      - path: TailBone/Bone056
+        weight: 1
+      - path: TailBone/Bone056/connectBone008
+        weight: 1
+      - path: TailBone/Bone056/connectBone008/Bone045
+        weight: 1
+      - path: TailBone/Bone056/connectBone008/Bone045/Bone046
+        weight: 1
+      - path: TailBone/Bone056/connectBone008/Bone045/Bone046/Bone047
+        weight: 1
+      - path: TailBone/Bone056/connectBone008/Bone045/Bone046/Bone047/Bone048
+        weight: 1
+      - path: TailBone/Bone056/connectBone008/Bone045/Bone046/Bone047/Bone048/Bone049
+        weight: 1
+      - path: TailBone/Bone056/connectBone009
+        weight: 1
+      - path: TailBone/Bone056/connectBone009/Bone050
+        weight: 1
+      - path: TailBone/Bone056/connectBone009/Bone050/Bone051
+        weight: 1
+      - path: TailBone/Bone056/connectBone009/Bone050/Bone051/Bone052
+        weight: 1
+      - path: TailBone/Bone056/connectBone009/Bone050/Bone051/Bone052/Bone053
+        weight: 1
+      - path: TailBone/Bone056/connectBone009/Bone050/Bone051/Bone052/Bone053/Bone054
+        weight: 1
+      - path: TailBone/Bone056/connectBone012
+        weight: 1
+      - path: TailBone/Bone056/connectBone012/Bone023
+        weight: 1
+      - path: TailBone/Bone056/connectBone012/Bone023/Bone024
+        weight: 1
+      - path: TailBone/Bone056/connectBone012/Bone023/Bone024/Bone025
+        weight: 1
+      - path: TailBone/Bone056/connectBone012/Bone023/Bone024/Bone025/Bone026
+        weight: 1
+      - path: TailBone/Bone056/connectBone013
+        weight: 1
+      - path: TailBone/Bone056/connectBone013/Bone061
+        weight: 1
+      - path: TailBone/Bone056/connectBone013/Bone061/Bone062
+        weight: 1
+      - path: TailBone/Bone056/connectBone013/Bone061/Bone062/Bone063
+        weight: 1
+      - path: TailBone/Bone056/connectBone013/Bone061/Bone062/Bone063/Bone064
+        weight: 1
+      - path: TailBone/Bone056/EndOfButt
+        weight: 1
+      - path: TailBone/Bone056/EndOfButt/Bone058
+        weight: 1
+      - path: TailBone/Bone056/EndOfButt/Bone058/Chest 1
+        weight: 1
+      - path: TailBone/Bone056/EndOfButt/Bone058/Chest 1/Bone060
+        weight: 1
+      - path: TailBone/Bone056/EndOfButt/Bone058/Chest 1/Bone060/connectBone007
+        weight: 1
+      - path: TailBone/Bone056/EndOfButt/Bone058/Chest 1/Bone060/connectBone007/Head
+          1
+        weight: 1
+      - path: TailBone/Bone056/EndOfButt/Bone058/Chest 1/Bone060/connectBone007/Head
+          1/Bone005
+        weight: 1
+      - path: TailBone/Bone056/EndOfButt/Bone058/Chest 1/Bone060/connectBone007/Head
+          1/Bone005/Bone006
+        weight: 1
+      - path: TailBone/Bone056/EndOfButt/Bone058/Chest 1/Bone060/connectBone007/Head
+          1/Bone005/Bone006/connectBone001
+        weight: 1
+      - path: TailBone/Bone056/EndOfButt/Bone058/Chest 1/Bone060/connectBone007/Head
+          1/Bone005/Bone006/connectBone001/Head_leg_up_Right
+        weight: 1
+      - path: TailBone/Bone056/EndOfButt/Bone058/Chest 1/Bone060/connectBone007/Head
+          1/Bone005/Bone006/connectBone001/Head_leg_up_Right/Bone031
+        weight: 1
+      - path: TailBone/Bone056/EndOfButt/Bone058/Chest 1/Bone060/connectBone007/Head
+          1/Bone005/Bone006/connectBone001/Head_leg_up_Right/Bone031/Bone032
+        weight: 1
+      - path: TailBone/Bone056/EndOfButt/Bone058/Chest 1/Bone060/connectBone007/Head
+          1/Bone005/Bone006/connectBone001/Head_leg_up_Right/Bone031/Bone032/Bone033
+        weight: 1
+      - path: TailBone/Bone056/EndOfButt/Bone058/Chest 1/Bone060/connectBone007/Head
+          1/Bone005/Bone006/connectBone001/Head_leg_up_Right/Bone031/Bone032/Bone033/Bone034
+        weight: 1
+      - path: TailBone/Bone056/EndOfButt/Bone058/Chest 1/Bone060/connectBone007/Head
+          1/Bone005/Bone006/connectBone002
+        weight: 1
+      - path: TailBone/Bone056/EndOfButt/Bone058/Chest 1/Bone060/connectBone007/Head
+          1/Bone005/Bone006/connectBone002/Mouth_Pincer_Right_base
+        weight: 1
+      - path: TailBone/Bone056/EndOfButt/Bone058/Chest 1/Bone060/connectBone007/Head
+          1/Bone005/Bone006/connectBone002/Mouth_Pincer_Right_base/Mouth_Pincer_Right
+        weight: 1
+      - path: TailBone/Bone056/EndOfButt/Bone058/Chest 1/Bone060/connectBone007/Head
+          1/Bone005/Bone006/connectBone002/Mouth_Pincer_Right_base/Mouth_Pincer_Right/Bone022
+        weight: 1
+      - path: TailBone/Bone056/EndOfButt/Bone058/Chest 1/Bone060/connectBone007/Head
+          1/Bone005/Bone006/connectBone002/Mouth_Pincer_Right_base/Mouth_Pincer_Right/Bone022/Bone023
+          1
+        weight: 1
+      - path: TailBone/Bone056/EndOfButt/Bone058/Chest 1/Bone060/connectBone007/Head
+          1/Bone005/Bone006/connectBone002/Mouth_Pincer_Right_base/Mouth_Pincer_Right/Bone022/Bone023
+          1/Bone024 1
+        weight: 1
+      - path: TailBone/Bone056/EndOfButt/Bone058/Chest 1/Bone060/connectBone007/Head
+          1/Bone005/Bone006/connectBone003
+        weight: 1
+      - path: TailBone/Bone056/EndOfButt/Bone058/Chest 1/Bone060/connectBone007/Head
+          1/Bone005/Bone006/connectBone003/Mouth_Pincer_Left_Base
+        weight: 1
+      - path: TailBone/Bone056/EndOfButt/Bone058/Chest 1/Bone060/connectBone007/Head
+          1/Bone005/Bone006/connectBone003/Mouth_Pincer_Left_Base/Mouth_Pincer_Left
+        weight: 1
+      - path: TailBone/Bone056/EndOfButt/Bone058/Chest 1/Bone060/connectBone007/Head
+          1/Bone005/Bone006/connectBone003/Mouth_Pincer_Left_Base/Mouth_Pincer_Left/Bone017
+        weight: 1
+      - path: TailBone/Bone056/EndOfButt/Bone058/Chest 1/Bone060/connectBone007/Head
+          1/Bone005/Bone006/connectBone003/Mouth_Pincer_Left_Base/Mouth_Pincer_Left/Bone017/Bone018
+        weight: 1
+      - path: TailBone/Bone056/EndOfButt/Bone058/Chest 1/Bone060/connectBone007/Head
+          1/Bone005/Bone006/connectBone003/Mouth_Pincer_Left_Base/Mouth_Pincer_Left/Bone017/Bone018/Bone019
+        weight: 1
+      - path: TailBone/Bone056/EndOfButt/Bone058/Chest 1/Bone060/connectBone007/Head
+          1/Bone005/Bone006/connectBone004
+        weight: 1
+      - path: TailBone/Bone056/EndOfButt/Bone058/Chest 1/Bone060/connectBone007/Head
+          1/Bone005/Bone006/connectBone004/Head_leg_Up_Left
+        weight: 1
+      - path: TailBone/Bone056/EndOfButt/Bone058/Chest 1/Bone060/connectBone007/Head
+          1/Bone005/Bone006/connectBone004/Head_leg_Up_Left/aweqwe
+        weight: 1
+      - path: TailBone/Bone056/EndOfButt/Bone058/Chest 1/Bone060/connectBone007/Head
+          1/Bone005/Bone006/connectBone004/Head_leg_Up_Left/aweqwe/qweqwe 1
+        weight: 1
+      - path: TailBone/Bone056/EndOfButt/Bone058/Chest 1/Bone060/connectBone007/Head
+          1/Bone005/Bone006/connectBone004/Head_leg_Up_Left/aweqwe/qweqwe 1/qweqwe
+          3
+        weight: 1
+      - path: TailBone/Bone056/EndOfButt/Bone058/Chest 1/Bone060/connectBone007/Head
+          1/Bone005/Bone006/connectBone004/Head_leg_Up_Left/aweqwe/qweqwe 1/qweqwe
+          3/qweqw
+        weight: 1
+      - path: TailBone/Bone056/EndOfButt/Bone058/Chest 1/Bone060/connectBone007/Head
+          1/Bone005/Bone006/connectBone005
+        weight: 1
+      - path: TailBone/Bone056/EndOfButt/Bone058/Chest 1/Bone060/connectBone007/Head
+          1/Bone005/Bone006/connectBone005/Head_leg_Low_left
+        weight: 1
+      - path: TailBone/Bone056/EndOfButt/Bone058/Chest 1/Bone060/connectBone007/Head
+          1/Bone005/Bone006/connectBone005/Head_leg_Low_left/qweqwe
+        weight: 1
+      - path: TailBone/Bone056/EndOfButt/Bone058/Chest 1/Bone060/connectBone007/Head
+          1/Bone005/Bone006/connectBone005/Head_leg_Low_left/qweqwe/qwe
+        weight: 1
+      - path: TailBone/Bone056/EndOfButt/Bone058/Chest 1/Bone060/connectBone007/Head
+          1/Bone005/Bone006/connectBone005/Head_leg_Low_left/qweqwe/qwe/qweqwe 4
+        weight: 1
+      - path: TailBone/Bone056/EndOfButt/Bone058/Chest 1/Bone060/connectBone007/Head
+          1/Bone005/Bone006/connectBone005/Head_leg_Low_left/qweqwe/qwe/qweqwe 4/ewqqq
+        weight: 1
+      - path: TailBone/Bone056/EndOfButt/Bone058/Chest 1/Bone060/connectBone007/Head
+          1/Bone005/Bone006/connectBone006
+        weight: 1
+      - path: TailBone/Bone056/EndOfButt/Bone058/Chest 1/Bone060/connectBone007/Head
+          1/Bone005/Bone006/connectBone006/Head_leg_Low_right
+        weight: 1
+      - path: TailBone/Bone056/EndOfButt/Bone058/Chest 1/Bone060/connectBone007/Head
+          1/Bone005/Bone006/connectBone006/Head_leg_Low_right/eqweqwe
+        weight: 1
+      - path: TailBone/Bone056/EndOfButt/Bone058/Chest 1/Bone060/connectBone007/Head
+          1/Bone005/Bone006/connectBone006/Head_leg_Low_right/eqweqwe/qweqwe 2
+        weight: 1
+      - path: TailBone/Bone056/EndOfButt/Bone058/Chest 1/Bone060/connectBone007/Head
+          1/Bone005/Bone006/connectBone006/Head_leg_Low_right/eqweqwe/qweqwe 2/qweqwe
+          5
+        weight: 1
+      - path: TailBone/Bone056/EndOfButt/Bone058/Chest 1/Bone060/connectBone007/Head
+          1/Bone005/Bone006/connectBone006/Head_leg_Low_right/eqweqwe/qweqwe 2/qweqwe
+          5/qweqwe 6
+        weight: 1
+      - path: TailBone/Bone056/EndOfButt/Bone058/Chest 1/Bone060/connectBone010
+        weight: 1
+      - path: TailBone/Bone056/EndOfButt/Bone058/Chest 1/Bone060/connectBone010/L_Arm_Upper
+        weight: 1
+      - path: TailBone/Bone056/EndOfButt/Bone058/Chest 1/Bone060/connectBone010/L_Arm_Upper/L_Arm_Joint
+        weight: 1
+      - path: TailBone/Bone056/EndOfButt/Bone058/Chest 1/Bone060/connectBone010/L_Arm_Upper/L_Arm_Joint/L_Arm_Lower
+        weight: 1
+      - path: TailBone/Bone056/EndOfButt/Bone058/Chest 1/Bone060/connectBone010/L_Arm_Upper/L_Arm_Joint/L_Arm_Lower/Bone010
+        weight: 1
+      - path: TailBone/Bone056/EndOfButt/Bone058/Chest 1/Bone060/connectBone011
+        weight: 1
+      - path: TailBone/Bone056/EndOfButt/Bone058/Chest 1/Bone060/connectBone011/R_Arm_Upper
+        weight: 1
+      - path: TailBone/Bone056/EndOfButt/Bone058/Chest 1/Bone060/connectBone011/R_Arm_Upper/Bone012
+        weight: 1
+      - path: TailBone/Bone056/EndOfButt/Bone058/Chest 1/Bone060/connectBone011/R_Arm_Upper/Bone012/Bone013
+        weight: 1
+      - path: TailBone/Bone056/EndOfButt/Bone058/Chest 1/Bone060/connectBone011/R_Arm_Upper/Bone012/Bone013/Bone014
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Walk
+      takeName: Take 001
+      firstFrame: 110
+      lastFrame: 134
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: ArmLeft
+        weight: 1
+      - path: ArmRight
+        weight: 1
+      - path: ButtAndLegs
+        weight: 1
+      - path: Chest
+        weight: 1
+      - path: Eye001
+        weight: 1
+      - path: Eye002
+        weight: 1
+      - path: Eye003
+        weight: 1
+      - path: Eye004
+        weight: 1
+      - path: Eye005
+        weight: 1
+      - path: Eye006
+        weight: 1
+      - path: Eye007
+        weight: 1
+      - path: Eye008
+        weight: 1
+      - path: GeoSphere001
+        weight: 1
+      - path: Head
+        weight: 1
+      - path: TailBone
+        weight: 1
+      - path: TailBone/Bone056
+        weight: 1
+      - path: TailBone/Bone056/connectBone008
+        weight: 1
+      - path: TailBone/Bone056/connectBone008/Bone045
+        weight: 1
+      - path: TailBone/Bone056/connectBone008/Bone045/Bone046
+        weight: 1
+      - path: TailBone/Bone056/connectBone008/Bone045/Bone046/Bone047
+        weight: 1
+      - path: TailBone/Bone056/connectBone008/Bone045/Bone046/Bone047/Bone048
+        weight: 1
+      - path: TailBone/Bone056/connectBone008/Bone045/Bone046/Bone047/Bone048/Bone049
+        weight: 1
+      - path: TailBone/Bone056/connectBone009
+        weight: 1
+      - path: TailBone/Bone056/connectBone009/Bone050
+        weight: 1
+      - path: TailBone/Bone056/connectBone009/Bone050/Bone051
+        weight: 1
+      - path: TailBone/Bone056/connectBone009/Bone050/Bone051/Bone052
+        weight: 1
+      - path: TailBone/Bone056/connectBone009/Bone050/Bone051/Bone052/Bone053
+        weight: 1
+      - path: TailBone/Bone056/connectBone009/Bone050/Bone051/Bone052/Bone053/Bone054
+        weight: 1
+      - path: TailBone/Bone056/connectBone012
+        weight: 1
+      - path: TailBone/Bone056/connectBone012/Bone023
+        weight: 1
+      - path: TailBone/Bone056/connectBone012/Bone023/Bone024
+        weight: 1
+      - path: TailBone/Bone056/connectBone012/Bone023/Bone024/Bone025
+        weight: 1
+      - path: TailBone/Bone056/connectBone012/Bone023/Bone024/Bone025/Bone026
+        weight: 1
+      - path: TailBone/Bone056/connectBone013
+        weight: 1
+      - path: TailBone/Bone056/connectBone013/Bone061
+        weight: 1
+      - path: TailBone/Bone056/connectBone013/Bone061/Bone062
+        weight: 1
+      - path: TailBone/Bone056/connectBone013/Bone061/Bone062/Bone063
+        weight: 1
+      - path: TailBone/Bone056/connectBone013/Bone061/Bone062/Bone063/Bone064
+        weight: 1
+      - path: TailBone/Bone056/EndOfButt
+        weight: 1
+      - path: TailBone/Bone056/EndOfButt/Bone058
+        weight: 1
+      - path: TailBone/Bone056/EndOfButt/Bone058/Chest 1
+        weight: 1
+      - path: TailBone/Bone056/EndOfButt/Bone058/Chest 1/Bone060
+        weight: 1
+      - path: TailBone/Bone056/EndOfButt/Bone058/Chest 1/Bone060/connectBone007
+        weight: 1
+      - path: TailBone/Bone056/EndOfButt/Bone058/Chest 1/Bone060/connectBone007/Head
+          1
+        weight: 1
+      - path: TailBone/Bone056/EndOfButt/Bone058/Chest 1/Bone060/connectBone007/Head
+          1/Bone005
+        weight: 1
+      - path: TailBone/Bone056/EndOfButt/Bone058/Chest 1/Bone060/connectBone007/Head
+          1/Bone005/Bone006
+        weight: 1
+      - path: TailBone/Bone056/EndOfButt/Bone058/Chest 1/Bone060/connectBone007/Head
+          1/Bone005/Bone006/connectBone001
+        weight: 1
+      - path: TailBone/Bone056/EndOfButt/Bone058/Chest 1/Bone060/connectBone007/Head
+          1/Bone005/Bone006/connectBone001/Head_leg_up_Right
+        weight: 1
+      - path: TailBone/Bone056/EndOfButt/Bone058/Chest 1/Bone060/connectBone007/Head
+          1/Bone005/Bone006/connectBone001/Head_leg_up_Right/Bone031
+        weight: 1
+      - path: TailBone/Bone056/EndOfButt/Bone058/Chest 1/Bone060/connectBone007/Head
+          1/Bone005/Bone006/connectBone001/Head_leg_up_Right/Bone031/Bone032
+        weight: 1
+      - path: TailBone/Bone056/EndOfButt/Bone058/Chest 1/Bone060/connectBone007/Head
+          1/Bone005/Bone006/connectBone001/Head_leg_up_Right/Bone031/Bone032/Bone033
+        weight: 1
+      - path: TailBone/Bone056/EndOfButt/Bone058/Chest 1/Bone060/connectBone007/Head
+          1/Bone005/Bone006/connectBone001/Head_leg_up_Right/Bone031/Bone032/Bone033/Bone034
+        weight: 1
+      - path: TailBone/Bone056/EndOfButt/Bone058/Chest 1/Bone060/connectBone007/Head
+          1/Bone005/Bone006/connectBone002
+        weight: 1
+      - path: TailBone/Bone056/EndOfButt/Bone058/Chest 1/Bone060/connectBone007/Head
+          1/Bone005/Bone006/connectBone002/Mouth_Pincer_Right_base
+        weight: 1
+      - path: TailBone/Bone056/EndOfButt/Bone058/Chest 1/Bone060/connectBone007/Head
+          1/Bone005/Bone006/connectBone002/Mouth_Pincer_Right_base/Mouth_Pincer_Right
+        weight: 1
+      - path: TailBone/Bone056/EndOfButt/Bone058/Chest 1/Bone060/connectBone007/Head
+          1/Bone005/Bone006/connectBone002/Mouth_Pincer_Right_base/Mouth_Pincer_Right/Bone022
+        weight: 1
+      - path: TailBone/Bone056/EndOfButt/Bone058/Chest 1/Bone060/connectBone007/Head
+          1/Bone005/Bone006/connectBone002/Mouth_Pincer_Right_base/Mouth_Pincer_Right/Bone022/Bone023
+          1
+        weight: 1
+      - path: TailBone/Bone056/EndOfButt/Bone058/Chest 1/Bone060/connectBone007/Head
+          1/Bone005/Bone006/connectBone002/Mouth_Pincer_Right_base/Mouth_Pincer_Right/Bone022/Bone023
+          1/Bone024 1
+        weight: 1
+      - path: TailBone/Bone056/EndOfButt/Bone058/Chest 1/Bone060/connectBone007/Head
+          1/Bone005/Bone006/connectBone003
+        weight: 1
+      - path: TailBone/Bone056/EndOfButt/Bone058/Chest 1/Bone060/connectBone007/Head
+          1/Bone005/Bone006/connectBone003/Mouth_Pincer_Left_Base
+        weight: 1
+      - path: TailBone/Bone056/EndOfButt/Bone058/Chest 1/Bone060/connectBone007/Head
+          1/Bone005/Bone006/connectBone003/Mouth_Pincer_Left_Base/Mouth_Pincer_Left
+        weight: 1
+      - path: TailBone/Bone056/EndOfButt/Bone058/Chest 1/Bone060/connectBone007/Head
+          1/Bone005/Bone006/connectBone003/Mouth_Pincer_Left_Base/Mouth_Pincer_Left/Bone017
+        weight: 1
+      - path: TailBone/Bone056/EndOfButt/Bone058/Chest 1/Bone060/connectBone007/Head
+          1/Bone005/Bone006/connectBone003/Mouth_Pincer_Left_Base/Mouth_Pincer_Left/Bone017/Bone018
+        weight: 1
+      - path: TailBone/Bone056/EndOfButt/Bone058/Chest 1/Bone060/connectBone007/Head
+          1/Bone005/Bone006/connectBone003/Mouth_Pincer_Left_Base/Mouth_Pincer_Left/Bone017/Bone018/Bone019
+        weight: 1
+      - path: TailBone/Bone056/EndOfButt/Bone058/Chest 1/Bone060/connectBone007/Head
+          1/Bone005/Bone006/connectBone004
+        weight: 1
+      - path: TailBone/Bone056/EndOfButt/Bone058/Chest 1/Bone060/connectBone007/Head
+          1/Bone005/Bone006/connectBone004/Head_leg_Up_Left
+        weight: 1
+      - path: TailBone/Bone056/EndOfButt/Bone058/Chest 1/Bone060/connectBone007/Head
+          1/Bone005/Bone006/connectBone004/Head_leg_Up_Left/aweqwe
+        weight: 1
+      - path: TailBone/Bone056/EndOfButt/Bone058/Chest 1/Bone060/connectBone007/Head
+          1/Bone005/Bone006/connectBone004/Head_leg_Up_Left/aweqwe/qweqwe 1
+        weight: 1
+      - path: TailBone/Bone056/EndOfButt/Bone058/Chest 1/Bone060/connectBone007/Head
+          1/Bone005/Bone006/connectBone004/Head_leg_Up_Left/aweqwe/qweqwe 1/qweqwe
+          3
+        weight: 1
+      - path: TailBone/Bone056/EndOfButt/Bone058/Chest 1/Bone060/connectBone007/Head
+          1/Bone005/Bone006/connectBone004/Head_leg_Up_Left/aweqwe/qweqwe 1/qweqwe
+          3/qweqw
+        weight: 1
+      - path: TailBone/Bone056/EndOfButt/Bone058/Chest 1/Bone060/connectBone007/Head
+          1/Bone005/Bone006/connectBone005
+        weight: 1
+      - path: TailBone/Bone056/EndOfButt/Bone058/Chest 1/Bone060/connectBone007/Head
+          1/Bone005/Bone006/connectBone005/Head_leg_Low_left
+        weight: 1
+      - path: TailBone/Bone056/EndOfButt/Bone058/Chest 1/Bone060/connectBone007/Head
+          1/Bone005/Bone006/connectBone005/Head_leg_Low_left/qweqwe
+        weight: 1
+      - path: TailBone/Bone056/EndOfButt/Bone058/Chest 1/Bone060/connectBone007/Head
+          1/Bone005/Bone006/connectBone005/Head_leg_Low_left/qweqwe/qwe
+        weight: 1
+      - path: TailBone/Bone056/EndOfButt/Bone058/Chest 1/Bone060/connectBone007/Head
+          1/Bone005/Bone006/connectBone005/Head_leg_Low_left/qweqwe/qwe/qweqwe 4
+        weight: 1
+      - path: TailBone/Bone056/EndOfButt/Bone058/Chest 1/Bone060/connectBone007/Head
+          1/Bone005/Bone006/connectBone005/Head_leg_Low_left/qweqwe/qwe/qweqwe 4/ewqqq
+        weight: 1
+      - path: TailBone/Bone056/EndOfButt/Bone058/Chest 1/Bone060/connectBone007/Head
+          1/Bone005/Bone006/connectBone006
+        weight: 1
+      - path: TailBone/Bone056/EndOfButt/Bone058/Chest 1/Bone060/connectBone007/Head
+          1/Bone005/Bone006/connectBone006/Head_leg_Low_right
+        weight: 1
+      - path: TailBone/Bone056/EndOfButt/Bone058/Chest 1/Bone060/connectBone007/Head
+          1/Bone005/Bone006/connectBone006/Head_leg_Low_right/eqweqwe
+        weight: 1
+      - path: TailBone/Bone056/EndOfButt/Bone058/Chest 1/Bone060/connectBone007/Head
+          1/Bone005/Bone006/connectBone006/Head_leg_Low_right/eqweqwe/qweqwe 2
+        weight: 1
+      - path: TailBone/Bone056/EndOfButt/Bone058/Chest 1/Bone060/connectBone007/Head
+          1/Bone005/Bone006/connectBone006/Head_leg_Low_right/eqweqwe/qweqwe 2/qweqwe
+          5
+        weight: 1
+      - path: TailBone/Bone056/EndOfButt/Bone058/Chest 1/Bone060/connectBone007/Head
+          1/Bone005/Bone006/connectBone006/Head_leg_Low_right/eqweqwe/qweqwe 2/qweqwe
+          5/qweqwe 6
+        weight: 1
+      - path: TailBone/Bone056/EndOfButt/Bone058/Chest 1/Bone060/connectBone010
+        weight: 1
+      - path: TailBone/Bone056/EndOfButt/Bone058/Chest 1/Bone060/connectBone010/L_Arm_Upper
+        weight: 1
+      - path: TailBone/Bone056/EndOfButt/Bone058/Chest 1/Bone060/connectBone010/L_Arm_Upper/L_Arm_Joint
+        weight: 1
+      - path: TailBone/Bone056/EndOfButt/Bone058/Chest 1/Bone060/connectBone010/L_Arm_Upper/L_Arm_Joint/L_Arm_Lower
+        weight: 1
+      - path: TailBone/Bone056/EndOfButt/Bone058/Chest 1/Bone060/connectBone010/L_Arm_Upper/L_Arm_Joint/L_Arm_Lower/Bone010
+        weight: 1
+      - path: TailBone/Bone056/EndOfButt/Bone058/Chest 1/Bone060/connectBone011
+        weight: 1
+      - path: TailBone/Bone056/EndOfButt/Bone058/Chest 1/Bone060/connectBone011/R_Arm_Upper
+        weight: 1
+      - path: TailBone/Bone056/EndOfButt/Bone058/Chest 1/Bone060/connectBone011/R_Arm_Upper/Bone012
+        weight: 1
+      - path: TailBone/Bone056/EndOfButt/Bone058/Chest 1/Bone060/connectBone011/R_Arm_Upper/Bone012/Bone013
+        weight: 1
+      - path: TailBone/Bone056/EndOfButt/Bone058/Chest 1/Bone060/connectBone011/R_Arm_Upper/Bone012/Bone013/Bone014
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Idle
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 40
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: ArmLeft
+        weight: 1
+      - path: ArmRight
+        weight: 1
+      - path: ButtAndLegs
+        weight: 1
+      - path: Chest
+        weight: 1
+      - path: Eye001
+        weight: 1
+      - path: Eye002
+        weight: 1
+      - path: Eye003
+        weight: 1
+      - path: Eye004
+        weight: 1
+      - path: Eye005
+        weight: 1
+      - path: Eye006
+        weight: 1
+      - path: Eye007
+        weight: 1
+      - path: Eye008
+        weight: 1
+      - path: GeoSphere001
+        weight: 1
+      - path: Head
+        weight: 1
+      - path: TailBone
+        weight: 1
+      - path: TailBone/Bone056
+        weight: 1
+      - path: TailBone/Bone056/connectBone008
+        weight: 1
+      - path: TailBone/Bone056/connectBone008/Bone045
+        weight: 1
+      - path: TailBone/Bone056/connectBone008/Bone045/Bone046
+        weight: 1
+      - path: TailBone/Bone056/connectBone008/Bone045/Bone046/Bone047
+        weight: 1
+      - path: TailBone/Bone056/connectBone008/Bone045/Bone046/Bone047/Bone048
+        weight: 1
+      - path: TailBone/Bone056/connectBone008/Bone045/Bone046/Bone047/Bone048/Bone049
+        weight: 1
+      - path: TailBone/Bone056/connectBone009
+        weight: 1
+      - path: TailBone/Bone056/connectBone009/Bone050
+        weight: 1
+      - path: TailBone/Bone056/connectBone009/Bone050/Bone051
+        weight: 1
+      - path: TailBone/Bone056/connectBone009/Bone050/Bone051/Bone052
+        weight: 1
+      - path: TailBone/Bone056/connectBone009/Bone050/Bone051/Bone052/Bone053
+        weight: 1
+      - path: TailBone/Bone056/connectBone009/Bone050/Bone051/Bone052/Bone053/Bone054
+        weight: 1
+      - path: TailBone/Bone056/connectBone012
+        weight: 1
+      - path: TailBone/Bone056/connectBone012/Bone023
+        weight: 1
+      - path: TailBone/Bone056/connectBone012/Bone023/Bone024
+        weight: 1
+      - path: TailBone/Bone056/connectBone012/Bone023/Bone024/Bone025
+        weight: 1
+      - path: TailBone/Bone056/connectBone012/Bone023/Bone024/Bone025/Bone026
+        weight: 1
+      - path: TailBone/Bone056/connectBone013
+        weight: 1
+      - path: TailBone/Bone056/connectBone013/Bone061
+        weight: 1
+      - path: TailBone/Bone056/connectBone013/Bone061/Bone062
+        weight: 1
+      - path: TailBone/Bone056/connectBone013/Bone061/Bone062/Bone063
+        weight: 1
+      - path: TailBone/Bone056/connectBone013/Bone061/Bone062/Bone063/Bone064
+        weight: 1
+      - path: TailBone/Bone056/EndOfButt
+        weight: 1
+      - path: TailBone/Bone056/EndOfButt/Bone058
+        weight: 1
+      - path: TailBone/Bone056/EndOfButt/Bone058/Chest 1
+        weight: 1
+      - path: TailBone/Bone056/EndOfButt/Bone058/Chest 1/Bone060
+        weight: 1
+      - path: TailBone/Bone056/EndOfButt/Bone058/Chest 1/Bone060/connectBone007
+        weight: 1
+      - path: TailBone/Bone056/EndOfButt/Bone058/Chest 1/Bone060/connectBone007/Head
+          1
+        weight: 1
+      - path: TailBone/Bone056/EndOfButt/Bone058/Chest 1/Bone060/connectBone007/Head
+          1/Bone005
+        weight: 1
+      - path: TailBone/Bone056/EndOfButt/Bone058/Chest 1/Bone060/connectBone007/Head
+          1/Bone005/Bone006
+        weight: 1
+      - path: TailBone/Bone056/EndOfButt/Bone058/Chest 1/Bone060/connectBone007/Head
+          1/Bone005/Bone006/connectBone001
+        weight: 1
+      - path: TailBone/Bone056/EndOfButt/Bone058/Chest 1/Bone060/connectBone007/Head
+          1/Bone005/Bone006/connectBone001/Head_leg_up_Right
+        weight: 1
+      - path: TailBone/Bone056/EndOfButt/Bone058/Chest 1/Bone060/connectBone007/Head
+          1/Bone005/Bone006/connectBone001/Head_leg_up_Right/Bone031
+        weight: 1
+      - path: TailBone/Bone056/EndOfButt/Bone058/Chest 1/Bone060/connectBone007/Head
+          1/Bone005/Bone006/connectBone001/Head_leg_up_Right/Bone031/Bone032
+        weight: 1
+      - path: TailBone/Bone056/EndOfButt/Bone058/Chest 1/Bone060/connectBone007/Head
+          1/Bone005/Bone006/connectBone001/Head_leg_up_Right/Bone031/Bone032/Bone033
+        weight: 1
+      - path: TailBone/Bone056/EndOfButt/Bone058/Chest 1/Bone060/connectBone007/Head
+          1/Bone005/Bone006/connectBone001/Head_leg_up_Right/Bone031/Bone032/Bone033/Bone034
+        weight: 1
+      - path: TailBone/Bone056/EndOfButt/Bone058/Chest 1/Bone060/connectBone007/Head
+          1/Bone005/Bone006/connectBone002
+        weight: 1
+      - path: TailBone/Bone056/EndOfButt/Bone058/Chest 1/Bone060/connectBone007/Head
+          1/Bone005/Bone006/connectBone002/Mouth_Pincer_Right_base
+        weight: 1
+      - path: TailBone/Bone056/EndOfButt/Bone058/Chest 1/Bone060/connectBone007/Head
+          1/Bone005/Bone006/connectBone002/Mouth_Pincer_Right_base/Mouth_Pincer_Right
+        weight: 1
+      - path: TailBone/Bone056/EndOfButt/Bone058/Chest 1/Bone060/connectBone007/Head
+          1/Bone005/Bone006/connectBone002/Mouth_Pincer_Right_base/Mouth_Pincer_Right/Bone022
+        weight: 1
+      - path: TailBone/Bone056/EndOfButt/Bone058/Chest 1/Bone060/connectBone007/Head
+          1/Bone005/Bone006/connectBone002/Mouth_Pincer_Right_base/Mouth_Pincer_Right/Bone022/Bone023
+          1
+        weight: 1
+      - path: TailBone/Bone056/EndOfButt/Bone058/Chest 1/Bone060/connectBone007/Head
+          1/Bone005/Bone006/connectBone002/Mouth_Pincer_Right_base/Mouth_Pincer_Right/Bone022/Bone023
+          1/Bone024 1
+        weight: 1
+      - path: TailBone/Bone056/EndOfButt/Bone058/Chest 1/Bone060/connectBone007/Head
+          1/Bone005/Bone006/connectBone003
+        weight: 1
+      - path: TailBone/Bone056/EndOfButt/Bone058/Chest 1/Bone060/connectBone007/Head
+          1/Bone005/Bone006/connectBone003/Mouth_Pincer_Left_Base
+        weight: 1
+      - path: TailBone/Bone056/EndOfButt/Bone058/Chest 1/Bone060/connectBone007/Head
+          1/Bone005/Bone006/connectBone003/Mouth_Pincer_Left_Base/Mouth_Pincer_Left
+        weight: 1
+      - path: TailBone/Bone056/EndOfButt/Bone058/Chest 1/Bone060/connectBone007/Head
+          1/Bone005/Bone006/connectBone003/Mouth_Pincer_Left_Base/Mouth_Pincer_Left/Bone017
+        weight: 1
+      - path: TailBone/Bone056/EndOfButt/Bone058/Chest 1/Bone060/connectBone007/Head
+          1/Bone005/Bone006/connectBone003/Mouth_Pincer_Left_Base/Mouth_Pincer_Left/Bone017/Bone018
+        weight: 1
+      - path: TailBone/Bone056/EndOfButt/Bone058/Chest 1/Bone060/connectBone007/Head
+          1/Bone005/Bone006/connectBone003/Mouth_Pincer_Left_Base/Mouth_Pincer_Left/Bone017/Bone018/Bone019
+        weight: 1
+      - path: TailBone/Bone056/EndOfButt/Bone058/Chest 1/Bone060/connectBone007/Head
+          1/Bone005/Bone006/connectBone004
+        weight: 1
+      - path: TailBone/Bone056/EndOfButt/Bone058/Chest 1/Bone060/connectBone007/Head
+          1/Bone005/Bone006/connectBone004/Head_leg_Up_Left
+        weight: 1
+      - path: TailBone/Bone056/EndOfButt/Bone058/Chest 1/Bone060/connectBone007/Head
+          1/Bone005/Bone006/connectBone004/Head_leg_Up_Left/aweqwe
+        weight: 1
+      - path: TailBone/Bone056/EndOfButt/Bone058/Chest 1/Bone060/connectBone007/Head
+          1/Bone005/Bone006/connectBone004/Head_leg_Up_Left/aweqwe/qweqwe 1
+        weight: 1
+      - path: TailBone/Bone056/EndOfButt/Bone058/Chest 1/Bone060/connectBone007/Head
+          1/Bone005/Bone006/connectBone004/Head_leg_Up_Left/aweqwe/qweqwe 1/qweqwe
+          3
+        weight: 1
+      - path: TailBone/Bone056/EndOfButt/Bone058/Chest 1/Bone060/connectBone007/Head
+          1/Bone005/Bone006/connectBone004/Head_leg_Up_Left/aweqwe/qweqwe 1/qweqwe
+          3/qweqw
+        weight: 1
+      - path: TailBone/Bone056/EndOfButt/Bone058/Chest 1/Bone060/connectBone007/Head
+          1/Bone005/Bone006/connectBone005
+        weight: 1
+      - path: TailBone/Bone056/EndOfButt/Bone058/Chest 1/Bone060/connectBone007/Head
+          1/Bone005/Bone006/connectBone005/Head_leg_Low_left
+        weight: 1
+      - path: TailBone/Bone056/EndOfButt/Bone058/Chest 1/Bone060/connectBone007/Head
+          1/Bone005/Bone006/connectBone005/Head_leg_Low_left/qweqwe
+        weight: 1
+      - path: TailBone/Bone056/EndOfButt/Bone058/Chest 1/Bone060/connectBone007/Head
+          1/Bone005/Bone006/connectBone005/Head_leg_Low_left/qweqwe/qwe
+        weight: 1
+      - path: TailBone/Bone056/EndOfButt/Bone058/Chest 1/Bone060/connectBone007/Head
+          1/Bone005/Bone006/connectBone005/Head_leg_Low_left/qweqwe/qwe/qweqwe 4
+        weight: 1
+      - path: TailBone/Bone056/EndOfButt/Bone058/Chest 1/Bone060/connectBone007/Head
+          1/Bone005/Bone006/connectBone005/Head_leg_Low_left/qweqwe/qwe/qweqwe 4/ewqqq
+        weight: 1
+      - path: TailBone/Bone056/EndOfButt/Bone058/Chest 1/Bone060/connectBone007/Head
+          1/Bone005/Bone006/connectBone006
+        weight: 1
+      - path: TailBone/Bone056/EndOfButt/Bone058/Chest 1/Bone060/connectBone007/Head
+          1/Bone005/Bone006/connectBone006/Head_leg_Low_right
+        weight: 1
+      - path: TailBone/Bone056/EndOfButt/Bone058/Chest 1/Bone060/connectBone007/Head
+          1/Bone005/Bone006/connectBone006/Head_leg_Low_right/eqweqwe
+        weight: 1
+      - path: TailBone/Bone056/EndOfButt/Bone058/Chest 1/Bone060/connectBone007/Head
+          1/Bone005/Bone006/connectBone006/Head_leg_Low_right/eqweqwe/qweqwe 2
+        weight: 1
+      - path: TailBone/Bone056/EndOfButt/Bone058/Chest 1/Bone060/connectBone007/Head
+          1/Bone005/Bone006/connectBone006/Head_leg_Low_right/eqweqwe/qweqwe 2/qweqwe
+          5
+        weight: 1
+      - path: TailBone/Bone056/EndOfButt/Bone058/Chest 1/Bone060/connectBone007/Head
+          1/Bone005/Bone006/connectBone006/Head_leg_Low_right/eqweqwe/qweqwe 2/qweqwe
+          5/qweqwe 6
+        weight: 1
+      - path: TailBone/Bone056/EndOfButt/Bone058/Chest 1/Bone060/connectBone010
+        weight: 1
+      - path: TailBone/Bone056/EndOfButt/Bone058/Chest 1/Bone060/connectBone010/L_Arm_Upper
+        weight: 1
+      - path: TailBone/Bone056/EndOfButt/Bone058/Chest 1/Bone060/connectBone010/L_Arm_Upper/L_Arm_Joint
+        weight: 1
+      - path: TailBone/Bone056/EndOfButt/Bone058/Chest 1/Bone060/connectBone010/L_Arm_Upper/L_Arm_Joint/L_Arm_Lower
+        weight: 1
+      - path: TailBone/Bone056/EndOfButt/Bone058/Chest 1/Bone060/connectBone010/L_Arm_Upper/L_Arm_Joint/L_Arm_Lower/Bone010
+        weight: 1
+      - path: TailBone/Bone056/EndOfButt/Bone058/Chest 1/Bone060/connectBone011
+        weight: 1
+      - path: TailBone/Bone056/EndOfButt/Bone058/Chest 1/Bone060/connectBone011/R_Arm_Upper
+        weight: 1
+      - path: TailBone/Bone056/EndOfButt/Bone058/Chest 1/Bone060/connectBone011/R_Arm_Upper/Bone012
+        weight: 1
+      - path: TailBone/Bone056/EndOfButt/Bone058/Chest 1/Bone060/connectBone011/R_Arm_Upper/Bone012/Bone013
+        weight: 1
+      - path: TailBone/Bone056/EndOfButt/Bone058/Chest 1/Bone060/connectBone011/R_Arm_Upper/Bone012/Bone013/Bone014
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: LeftPunch
+      takeName: Take 001
+      firstFrame: 45
+      lastFrame: 65
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: ArmLeft
+        weight: 1
+      - path: ArmRight
+        weight: 1
+      - path: ButtAndLegs
+        weight: 1
+      - path: Chest
+        weight: 1
+      - path: Eye001
+        weight: 1
+      - path: Eye002
+        weight: 1
+      - path: Eye003
+        weight: 1
+      - path: Eye004
+        weight: 1
+      - path: Eye005
+        weight: 1
+      - path: Eye006
+        weight: 1
+      - path: Eye007
+        weight: 1
+      - path: Eye008
+        weight: 1
+      - path: GeoSphere001
+        weight: 1
+      - path: Head
+        weight: 1
+      - path: TailBone
+        weight: 1
+      - path: TailBone/Bone056
+        weight: 1
+      - path: TailBone/Bone056/connectBone008
+        weight: 1
+      - path: TailBone/Bone056/connectBone008/Bone045
+        weight: 1
+      - path: TailBone/Bone056/connectBone008/Bone045/Bone046
+        weight: 1
+      - path: TailBone/Bone056/connectBone008/Bone045/Bone046/Bone047
+        weight: 1
+      - path: TailBone/Bone056/connectBone008/Bone045/Bone046/Bone047/Bone048
+        weight: 1
+      - path: TailBone/Bone056/connectBone008/Bone045/Bone046/Bone047/Bone048/Bone049
+        weight: 1
+      - path: TailBone/Bone056/connectBone009
+        weight: 1
+      - path: TailBone/Bone056/connectBone009/Bone050
+        weight: 1
+      - path: TailBone/Bone056/connectBone009/Bone050/Bone051
+        weight: 1
+      - path: TailBone/Bone056/connectBone009/Bone050/Bone051/Bone052
+        weight: 1
+      - path: TailBone/Bone056/connectBone009/Bone050/Bone051/Bone052/Bone053
+        weight: 1
+      - path: TailBone/Bone056/connectBone009/Bone050/Bone051/Bone052/Bone053/Bone054
+        weight: 1
+      - path: TailBone/Bone056/connectBone012
+        weight: 1
+      - path: TailBone/Bone056/connectBone012/Bone023
+        weight: 1
+      - path: TailBone/Bone056/connectBone012/Bone023/Bone024
+        weight: 1
+      - path: TailBone/Bone056/connectBone012/Bone023/Bone024/Bone025
+        weight: 1
+      - path: TailBone/Bone056/connectBone012/Bone023/Bone024/Bone025/Bone026
+        weight: 1
+      - path: TailBone/Bone056/connectBone013
+        weight: 1
+      - path: TailBone/Bone056/connectBone013/Bone061
+        weight: 1
+      - path: TailBone/Bone056/connectBone013/Bone061/Bone062
+        weight: 1
+      - path: TailBone/Bone056/connectBone013/Bone061/Bone062/Bone063
+        weight: 1
+      - path: TailBone/Bone056/connectBone013/Bone061/Bone062/Bone063/Bone064
+        weight: 1
+      - path: TailBone/Bone056/EndOfButt
+        weight: 1
+      - path: TailBone/Bone056/EndOfButt/Bone058
+        weight: 1
+      - path: TailBone/Bone056/EndOfButt/Bone058/Chest 1
+        weight: 1
+      - path: TailBone/Bone056/EndOfButt/Bone058/Chest 1/Bone060
+        weight: 1
+      - path: TailBone/Bone056/EndOfButt/Bone058/Chest 1/Bone060/connectBone007
+        weight: 1
+      - path: TailBone/Bone056/EndOfButt/Bone058/Chest 1/Bone060/connectBone007/Head
+          1
+        weight: 1
+      - path: TailBone/Bone056/EndOfButt/Bone058/Chest 1/Bone060/connectBone007/Head
+          1/Bone005
+        weight: 1
+      - path: TailBone/Bone056/EndOfButt/Bone058/Chest 1/Bone060/connectBone007/Head
+          1/Bone005/Bone006
+        weight: 1
+      - path: TailBone/Bone056/EndOfButt/Bone058/Chest 1/Bone060/connectBone007/Head
+          1/Bone005/Bone006/connectBone001
+        weight: 1
+      - path: TailBone/Bone056/EndOfButt/Bone058/Chest 1/Bone060/connectBone007/Head
+          1/Bone005/Bone006/connectBone001/Head_leg_up_Right
+        weight: 1
+      - path: TailBone/Bone056/EndOfButt/Bone058/Chest 1/Bone060/connectBone007/Head
+          1/Bone005/Bone006/connectBone001/Head_leg_up_Right/Bone031
+        weight: 1
+      - path: TailBone/Bone056/EndOfButt/Bone058/Chest 1/Bone060/connectBone007/Head
+          1/Bone005/Bone006/connectBone001/Head_leg_up_Right/Bone031/Bone032
+        weight: 1
+      - path: TailBone/Bone056/EndOfButt/Bone058/Chest 1/Bone060/connectBone007/Head
+          1/Bone005/Bone006/connectBone001/Head_leg_up_Right/Bone031/Bone032/Bone033
+        weight: 1
+      - path: TailBone/Bone056/EndOfButt/Bone058/Chest 1/Bone060/connectBone007/Head
+          1/Bone005/Bone006/connectBone001/Head_leg_up_Right/Bone031/Bone032/Bone033/Bone034
+        weight: 1
+      - path: TailBone/Bone056/EndOfButt/Bone058/Chest 1/Bone060/connectBone007/Head
+          1/Bone005/Bone006/connectBone002
+        weight: 1
+      - path: TailBone/Bone056/EndOfButt/Bone058/Chest 1/Bone060/connectBone007/Head
+          1/Bone005/Bone006/connectBone002/Mouth_Pincer_Right_base
+        weight: 1
+      - path: TailBone/Bone056/EndOfButt/Bone058/Chest 1/Bone060/connectBone007/Head
+          1/Bone005/Bone006/connectBone002/Mouth_Pincer_Right_base/Mouth_Pincer_Right
+        weight: 1
+      - path: TailBone/Bone056/EndOfButt/Bone058/Chest 1/Bone060/connectBone007/Head
+          1/Bone005/Bone006/connectBone002/Mouth_Pincer_Right_base/Mouth_Pincer_Right/Bone022
+        weight: 1
+      - path: TailBone/Bone056/EndOfButt/Bone058/Chest 1/Bone060/connectBone007/Head
+          1/Bone005/Bone006/connectBone002/Mouth_Pincer_Right_base/Mouth_Pincer_Right/Bone022/Bone023
+          1
+        weight: 1
+      - path: TailBone/Bone056/EndOfButt/Bone058/Chest 1/Bone060/connectBone007/Head
+          1/Bone005/Bone006/connectBone002/Mouth_Pincer_Right_base/Mouth_Pincer_Right/Bone022/Bone023
+          1/Bone024 1
+        weight: 1
+      - path: TailBone/Bone056/EndOfButt/Bone058/Chest 1/Bone060/connectBone007/Head
+          1/Bone005/Bone006/connectBone003
+        weight: 1
+      - path: TailBone/Bone056/EndOfButt/Bone058/Chest 1/Bone060/connectBone007/Head
+          1/Bone005/Bone006/connectBone003/Mouth_Pincer_Left_Base
+        weight: 1
+      - path: TailBone/Bone056/EndOfButt/Bone058/Chest 1/Bone060/connectBone007/Head
+          1/Bone005/Bone006/connectBone003/Mouth_Pincer_Left_Base/Mouth_Pincer_Left
+        weight: 1
+      - path: TailBone/Bone056/EndOfButt/Bone058/Chest 1/Bone060/connectBone007/Head
+          1/Bone005/Bone006/connectBone003/Mouth_Pincer_Left_Base/Mouth_Pincer_Left/Bone017
+        weight: 1
+      - path: TailBone/Bone056/EndOfButt/Bone058/Chest 1/Bone060/connectBone007/Head
+          1/Bone005/Bone006/connectBone003/Mouth_Pincer_Left_Base/Mouth_Pincer_Left/Bone017/Bone018
+        weight: 1
+      - path: TailBone/Bone056/EndOfButt/Bone058/Chest 1/Bone060/connectBone007/Head
+          1/Bone005/Bone006/connectBone003/Mouth_Pincer_Left_Base/Mouth_Pincer_Left/Bone017/Bone018/Bone019
+        weight: 1
+      - path: TailBone/Bone056/EndOfButt/Bone058/Chest 1/Bone060/connectBone007/Head
+          1/Bone005/Bone006/connectBone004
+        weight: 1
+      - path: TailBone/Bone056/EndOfButt/Bone058/Chest 1/Bone060/connectBone007/Head
+          1/Bone005/Bone006/connectBone004/Head_leg_Up_Left
+        weight: 1
+      - path: TailBone/Bone056/EndOfButt/Bone058/Chest 1/Bone060/connectBone007/Head
+          1/Bone005/Bone006/connectBone004/Head_leg_Up_Left/aweqwe
+        weight: 1
+      - path: TailBone/Bone056/EndOfButt/Bone058/Chest 1/Bone060/connectBone007/Head
+          1/Bone005/Bone006/connectBone004/Head_leg_Up_Left/aweqwe/qweqwe 1
+        weight: 1
+      - path: TailBone/Bone056/EndOfButt/Bone058/Chest 1/Bone060/connectBone007/Head
+          1/Bone005/Bone006/connectBone004/Head_leg_Up_Left/aweqwe/qweqwe 1/qweqwe
+          3
+        weight: 1
+      - path: TailBone/Bone056/EndOfButt/Bone058/Chest 1/Bone060/connectBone007/Head
+          1/Bone005/Bone006/connectBone004/Head_leg_Up_Left/aweqwe/qweqwe 1/qweqwe
+          3/qweqw
+        weight: 1
+      - path: TailBone/Bone056/EndOfButt/Bone058/Chest 1/Bone060/connectBone007/Head
+          1/Bone005/Bone006/connectBone005
+        weight: 1
+      - path: TailBone/Bone056/EndOfButt/Bone058/Chest 1/Bone060/connectBone007/Head
+          1/Bone005/Bone006/connectBone005/Head_leg_Low_left
+        weight: 1
+      - path: TailBone/Bone056/EndOfButt/Bone058/Chest 1/Bone060/connectBone007/Head
+          1/Bone005/Bone006/connectBone005/Head_leg_Low_left/qweqwe
+        weight: 1
+      - path: TailBone/Bone056/EndOfButt/Bone058/Chest 1/Bone060/connectBone007/Head
+          1/Bone005/Bone006/connectBone005/Head_leg_Low_left/qweqwe/qwe
+        weight: 1
+      - path: TailBone/Bone056/EndOfButt/Bone058/Chest 1/Bone060/connectBone007/Head
+          1/Bone005/Bone006/connectBone005/Head_leg_Low_left/qweqwe/qwe/qweqwe 4
+        weight: 1
+      - path: TailBone/Bone056/EndOfButt/Bone058/Chest 1/Bone060/connectBone007/Head
+          1/Bone005/Bone006/connectBone005/Head_leg_Low_left/qweqwe/qwe/qweqwe 4/ewqqq
+        weight: 1
+      - path: TailBone/Bone056/EndOfButt/Bone058/Chest 1/Bone060/connectBone007/Head
+          1/Bone005/Bone006/connectBone006
+        weight: 1
+      - path: TailBone/Bone056/EndOfButt/Bone058/Chest 1/Bone060/connectBone007/Head
+          1/Bone005/Bone006/connectBone006/Head_leg_Low_right
+        weight: 1
+      - path: TailBone/Bone056/EndOfButt/Bone058/Chest 1/Bone060/connectBone007/Head
+          1/Bone005/Bone006/connectBone006/Head_leg_Low_right/eqweqwe
+        weight: 1
+      - path: TailBone/Bone056/EndOfButt/Bone058/Chest 1/Bone060/connectBone007/Head
+          1/Bone005/Bone006/connectBone006/Head_leg_Low_right/eqweqwe/qweqwe 2
+        weight: 1
+      - path: TailBone/Bone056/EndOfButt/Bone058/Chest 1/Bone060/connectBone007/Head
+          1/Bone005/Bone006/connectBone006/Head_leg_Low_right/eqweqwe/qweqwe 2/qweqwe
+          5
+        weight: 1
+      - path: TailBone/Bone056/EndOfButt/Bone058/Chest 1/Bone060/connectBone007/Head
+          1/Bone005/Bone006/connectBone006/Head_leg_Low_right/eqweqwe/qweqwe 2/qweqwe
+          5/qweqwe 6
+        weight: 1
+      - path: TailBone/Bone056/EndOfButt/Bone058/Chest 1/Bone060/connectBone010
+        weight: 1
+      - path: TailBone/Bone056/EndOfButt/Bone058/Chest 1/Bone060/connectBone010/L_Arm_Upper
+        weight: 1
+      - path: TailBone/Bone056/EndOfButt/Bone058/Chest 1/Bone060/connectBone010/L_Arm_Upper/L_Arm_Joint
+        weight: 1
+      - path: TailBone/Bone056/EndOfButt/Bone058/Chest 1/Bone060/connectBone010/L_Arm_Upper/L_Arm_Joint/L_Arm_Lower
+        weight: 1
+      - path: TailBone/Bone056/EndOfButt/Bone058/Chest 1/Bone060/connectBone010/L_Arm_Upper/L_Arm_Joint/L_Arm_Lower/Bone010
+        weight: 1
+      - path: TailBone/Bone056/EndOfButt/Bone058/Chest 1/Bone060/connectBone011
+        weight: 1
+      - path: TailBone/Bone056/EndOfButt/Bone058/Chest 1/Bone060/connectBone011/R_Arm_Upper
+        weight: 1
+      - path: TailBone/Bone056/EndOfButt/Bone058/Chest 1/Bone060/connectBone011/R_Arm_Upper/Bone012
+        weight: 1
+      - path: TailBone/Bone056/EndOfButt/Bone058/Chest 1/Bone060/connectBone011/R_Arm_Upper/Bone012/Bone013
+        weight: 1
+      - path: TailBone/Bone056/EndOfButt/Bone058/Chest 1/Bone060/connectBone011/R_Arm_Upper/Bone012/Bone013/Bone014
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Uppercut
+      takeName: Take 001
+      firstFrame: 70
+      lastFrame: 100
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: ArmLeft
+        weight: 1
+      - path: ArmRight
+        weight: 1
+      - path: ButtAndLegs
+        weight: 1
+      - path: Chest
+        weight: 1
+      - path: Eye001
+        weight: 1
+      - path: Eye002
+        weight: 1
+      - path: Eye003
+        weight: 1
+      - path: Eye004
+        weight: 1
+      - path: Eye005
+        weight: 1
+      - path: Eye006
+        weight: 1
+      - path: Eye007
+        weight: 1
+      - path: Eye008
+        weight: 1
+      - path: GeoSphere001
+        weight: 1
+      - path: Head
+        weight: 1
+      - path: TailBone
+        weight: 1
+      - path: TailBone/Bone056
+        weight: 1
+      - path: TailBone/Bone056/connectBone008
+        weight: 1
+      - path: TailBone/Bone056/connectBone008/Bone045
+        weight: 1
+      - path: TailBone/Bone056/connectBone008/Bone045/Bone046
+        weight: 1
+      - path: TailBone/Bone056/connectBone008/Bone045/Bone046/Bone047
+        weight: 1
+      - path: TailBone/Bone056/connectBone008/Bone045/Bone046/Bone047/Bone048
+        weight: 1
+      - path: TailBone/Bone056/connectBone008/Bone045/Bone046/Bone047/Bone048/Bone049
+        weight: 1
+      - path: TailBone/Bone056/connectBone009
+        weight: 1
+      - path: TailBone/Bone056/connectBone009/Bone050
+        weight: 1
+      - path: TailBone/Bone056/connectBone009/Bone050/Bone051
+        weight: 1
+      - path: TailBone/Bone056/connectBone009/Bone050/Bone051/Bone052
+        weight: 1
+      - path: TailBone/Bone056/connectBone009/Bone050/Bone051/Bone052/Bone053
+        weight: 1
+      - path: TailBone/Bone056/connectBone009/Bone050/Bone051/Bone052/Bone053/Bone054
+        weight: 1
+      - path: TailBone/Bone056/connectBone012
+        weight: 1
+      - path: TailBone/Bone056/connectBone012/Bone023
+        weight: 1
+      - path: TailBone/Bone056/connectBone012/Bone023/Bone024
+        weight: 1
+      - path: TailBone/Bone056/connectBone012/Bone023/Bone024/Bone025
+        weight: 1
+      - path: TailBone/Bone056/connectBone012/Bone023/Bone024/Bone025/Bone026
+        weight: 1
+      - path: TailBone/Bone056/connectBone013
+        weight: 1
+      - path: TailBone/Bone056/connectBone013/Bone061
+        weight: 1
+      - path: TailBone/Bone056/connectBone013/Bone061/Bone062
+        weight: 1
+      - path: TailBone/Bone056/connectBone013/Bone061/Bone062/Bone063
+        weight: 1
+      - path: TailBone/Bone056/connectBone013/Bone061/Bone062/Bone063/Bone064
+        weight: 1
+      - path: TailBone/Bone056/EndOfButt
+        weight: 1
+      - path: TailBone/Bone056/EndOfButt/Bone058
+        weight: 1
+      - path: TailBone/Bone056/EndOfButt/Bone058/Chest 1
+        weight: 1
+      - path: TailBone/Bone056/EndOfButt/Bone058/Chest 1/Bone060
+        weight: 1
+      - path: TailBone/Bone056/EndOfButt/Bone058/Chest 1/Bone060/connectBone007
+        weight: 1
+      - path: TailBone/Bone056/EndOfButt/Bone058/Chest 1/Bone060/connectBone007/Head
+          1
+        weight: 1
+      - path: TailBone/Bone056/EndOfButt/Bone058/Chest 1/Bone060/connectBone007/Head
+          1/Bone005
+        weight: 1
+      - path: TailBone/Bone056/EndOfButt/Bone058/Chest 1/Bone060/connectBone007/Head
+          1/Bone005/Bone006
+        weight: 1
+      - path: TailBone/Bone056/EndOfButt/Bone058/Chest 1/Bone060/connectBone007/Head
+          1/Bone005/Bone006/connectBone001
+        weight: 1
+      - path: TailBone/Bone056/EndOfButt/Bone058/Chest 1/Bone060/connectBone007/Head
+          1/Bone005/Bone006/connectBone001/Head_leg_up_Right
+        weight: 1
+      - path: TailBone/Bone056/EndOfButt/Bone058/Chest 1/Bone060/connectBone007/Head
+          1/Bone005/Bone006/connectBone001/Head_leg_up_Right/Bone031
+        weight: 1
+      - path: TailBone/Bone056/EndOfButt/Bone058/Chest 1/Bone060/connectBone007/Head
+          1/Bone005/Bone006/connectBone001/Head_leg_up_Right/Bone031/Bone032
+        weight: 1
+      - path: TailBone/Bone056/EndOfButt/Bone058/Chest 1/Bone060/connectBone007/Head
+          1/Bone005/Bone006/connectBone001/Head_leg_up_Right/Bone031/Bone032/Bone033
+        weight: 1
+      - path: TailBone/Bone056/EndOfButt/Bone058/Chest 1/Bone060/connectBone007/Head
+          1/Bone005/Bone006/connectBone001/Head_leg_up_Right/Bone031/Bone032/Bone033/Bone034
+        weight: 1
+      - path: TailBone/Bone056/EndOfButt/Bone058/Chest 1/Bone060/connectBone007/Head
+          1/Bone005/Bone006/connectBone002
+        weight: 1
+      - path: TailBone/Bone056/EndOfButt/Bone058/Chest 1/Bone060/connectBone007/Head
+          1/Bone005/Bone006/connectBone002/Mouth_Pincer_Right_base
+        weight: 1
+      - path: TailBone/Bone056/EndOfButt/Bone058/Chest 1/Bone060/connectBone007/Head
+          1/Bone005/Bone006/connectBone002/Mouth_Pincer_Right_base/Mouth_Pincer_Right
+        weight: 1
+      - path: TailBone/Bone056/EndOfButt/Bone058/Chest 1/Bone060/connectBone007/Head
+          1/Bone005/Bone006/connectBone002/Mouth_Pincer_Right_base/Mouth_Pincer_Right/Bone022
+        weight: 1
+      - path: TailBone/Bone056/EndOfButt/Bone058/Chest 1/Bone060/connectBone007/Head
+          1/Bone005/Bone006/connectBone002/Mouth_Pincer_Right_base/Mouth_Pincer_Right/Bone022/Bone023
+          1
+        weight: 1
+      - path: TailBone/Bone056/EndOfButt/Bone058/Chest 1/Bone060/connectBone007/Head
+          1/Bone005/Bone006/connectBone002/Mouth_Pincer_Right_base/Mouth_Pincer_Right/Bone022/Bone023
+          1/Bone024 1
+        weight: 1
+      - path: TailBone/Bone056/EndOfButt/Bone058/Chest 1/Bone060/connectBone007/Head
+          1/Bone005/Bone006/connectBone003
+        weight: 1
+      - path: TailBone/Bone056/EndOfButt/Bone058/Chest 1/Bone060/connectBone007/Head
+          1/Bone005/Bone006/connectBone003/Mouth_Pincer_Left_Base
+        weight: 1
+      - path: TailBone/Bone056/EndOfButt/Bone058/Chest 1/Bone060/connectBone007/Head
+          1/Bone005/Bone006/connectBone003/Mouth_Pincer_Left_Base/Mouth_Pincer_Left
+        weight: 1
+      - path: TailBone/Bone056/EndOfButt/Bone058/Chest 1/Bone060/connectBone007/Head
+          1/Bone005/Bone006/connectBone003/Mouth_Pincer_Left_Base/Mouth_Pincer_Left/Bone017
+        weight: 1
+      - path: TailBone/Bone056/EndOfButt/Bone058/Chest 1/Bone060/connectBone007/Head
+          1/Bone005/Bone006/connectBone003/Mouth_Pincer_Left_Base/Mouth_Pincer_Left/Bone017/Bone018
+        weight: 1
+      - path: TailBone/Bone056/EndOfButt/Bone058/Chest 1/Bone060/connectBone007/Head
+          1/Bone005/Bone006/connectBone003/Mouth_Pincer_Left_Base/Mouth_Pincer_Left/Bone017/Bone018/Bone019
+        weight: 1
+      - path: TailBone/Bone056/EndOfButt/Bone058/Chest 1/Bone060/connectBone007/Head
+          1/Bone005/Bone006/connectBone004
+        weight: 1
+      - path: TailBone/Bone056/EndOfButt/Bone058/Chest 1/Bone060/connectBone007/Head
+          1/Bone005/Bone006/connectBone004/Head_leg_Up_Left
+        weight: 1
+      - path: TailBone/Bone056/EndOfButt/Bone058/Chest 1/Bone060/connectBone007/Head
+          1/Bone005/Bone006/connectBone004/Head_leg_Up_Left/aweqwe
+        weight: 1
+      - path: TailBone/Bone056/EndOfButt/Bone058/Chest 1/Bone060/connectBone007/Head
+          1/Bone005/Bone006/connectBone004/Head_leg_Up_Left/aweqwe/qweqwe 1
+        weight: 1
+      - path: TailBone/Bone056/EndOfButt/Bone058/Chest 1/Bone060/connectBone007/Head
+          1/Bone005/Bone006/connectBone004/Head_leg_Up_Left/aweqwe/qweqwe 1/qweqwe
+          3
+        weight: 1
+      - path: TailBone/Bone056/EndOfButt/Bone058/Chest 1/Bone060/connectBone007/Head
+          1/Bone005/Bone006/connectBone004/Head_leg_Up_Left/aweqwe/qweqwe 1/qweqwe
+          3/qweqw
+        weight: 1
+      - path: TailBone/Bone056/EndOfButt/Bone058/Chest 1/Bone060/connectBone007/Head
+          1/Bone005/Bone006/connectBone005
+        weight: 1
+      - path: TailBone/Bone056/EndOfButt/Bone058/Chest 1/Bone060/connectBone007/Head
+          1/Bone005/Bone006/connectBone005/Head_leg_Low_left
+        weight: 1
+      - path: TailBone/Bone056/EndOfButt/Bone058/Chest 1/Bone060/connectBone007/Head
+          1/Bone005/Bone006/connectBone005/Head_leg_Low_left/qweqwe
+        weight: 1
+      - path: TailBone/Bone056/EndOfButt/Bone058/Chest 1/Bone060/connectBone007/Head
+          1/Bone005/Bone006/connectBone005/Head_leg_Low_left/qweqwe/qwe
+        weight: 1
+      - path: TailBone/Bone056/EndOfButt/Bone058/Chest 1/Bone060/connectBone007/Head
+          1/Bone005/Bone006/connectBone005/Head_leg_Low_left/qweqwe/qwe/qweqwe 4
+        weight: 1
+      - path: TailBone/Bone056/EndOfButt/Bone058/Chest 1/Bone060/connectBone007/Head
+          1/Bone005/Bone006/connectBone005/Head_leg_Low_left/qweqwe/qwe/qweqwe 4/ewqqq
+        weight: 1
+      - path: TailBone/Bone056/EndOfButt/Bone058/Chest 1/Bone060/connectBone007/Head
+          1/Bone005/Bone006/connectBone006
+        weight: 1
+      - path: TailBone/Bone056/EndOfButt/Bone058/Chest 1/Bone060/connectBone007/Head
+          1/Bone005/Bone006/connectBone006/Head_leg_Low_right
+        weight: 1
+      - path: TailBone/Bone056/EndOfButt/Bone058/Chest 1/Bone060/connectBone007/Head
+          1/Bone005/Bone006/connectBone006/Head_leg_Low_right/eqweqwe
+        weight: 1
+      - path: TailBone/Bone056/EndOfButt/Bone058/Chest 1/Bone060/connectBone007/Head
+          1/Bone005/Bone006/connectBone006/Head_leg_Low_right/eqweqwe/qweqwe 2
+        weight: 1
+      - path: TailBone/Bone056/EndOfButt/Bone058/Chest 1/Bone060/connectBone007/Head
+          1/Bone005/Bone006/connectBone006/Head_leg_Low_right/eqweqwe/qweqwe 2/qweqwe
+          5
+        weight: 1
+      - path: TailBone/Bone056/EndOfButt/Bone058/Chest 1/Bone060/connectBone007/Head
+          1/Bone005/Bone006/connectBone006/Head_leg_Low_right/eqweqwe/qweqwe 2/qweqwe
+          5/qweqwe 6
+        weight: 1
+      - path: TailBone/Bone056/EndOfButt/Bone058/Chest 1/Bone060/connectBone010
+        weight: 1
+      - path: TailBone/Bone056/EndOfButt/Bone058/Chest 1/Bone060/connectBone010/L_Arm_Upper
+        weight: 1
+      - path: TailBone/Bone056/EndOfButt/Bone058/Chest 1/Bone060/connectBone010/L_Arm_Upper/L_Arm_Joint
+        weight: 1
+      - path: TailBone/Bone056/EndOfButt/Bone058/Chest 1/Bone060/connectBone010/L_Arm_Upper/L_Arm_Joint/L_Arm_Lower
+        weight: 1
+      - path: TailBone/Bone056/EndOfButt/Bone058/Chest 1/Bone060/connectBone010/L_Arm_Upper/L_Arm_Joint/L_Arm_Lower/Bone010
+        weight: 1
+      - path: TailBone/Bone056/EndOfButt/Bone058/Chest 1/Bone060/connectBone011
+        weight: 1
+      - path: TailBone/Bone056/EndOfButt/Bone058/Chest 1/Bone060/connectBone011/R_Arm_Upper
+        weight: 1
+      - path: TailBone/Bone056/EndOfButt/Bone058/Chest 1/Bone060/connectBone011/R_Arm_Upper/Bone012
+        weight: 1
+      - path: TailBone/Bone056/EndOfButt/Bone058/Chest 1/Bone060/connectBone011/R_Arm_Upper/Bone012/Bone013
+        weight: 1
+      - path: TailBone/Bone056/EndOfButt/Bone058/Chest 1/Bone060/connectBone011/R_Arm_Upper/Bone012/Bone013/Bone014
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Jump
+      takeName: Take 001
+      firstFrame: 140
+      lastFrame: 160
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: ArmLeft
+        weight: 1
+      - path: ArmRight
+        weight: 1
+      - path: ButtAndLegs
+        weight: 1
+      - path: Chest
+        weight: 1
+      - path: Eye001
+        weight: 1
+      - path: Eye002
+        weight: 1
+      - path: Eye003
+        weight: 1
+      - path: Eye004
+        weight: 1
+      - path: Eye005
+        weight: 1
+      - path: Eye006
+        weight: 1
+      - path: Eye007
+        weight: 1
+      - path: Eye008
+        weight: 1
+      - path: GeoSphere001
+        weight: 1
+      - path: Head
+        weight: 1
+      - path: TailBone
+        weight: 1
+      - path: TailBone/Bone056
+        weight: 1
+      - path: TailBone/Bone056/connectBone008
+        weight: 1
+      - path: TailBone/Bone056/connectBone008/Bone045
+        weight: 1
+      - path: TailBone/Bone056/connectBone008/Bone045/Bone046
+        weight: 1
+      - path: TailBone/Bone056/connectBone008/Bone045/Bone046/Bone047
+        weight: 1
+      - path: TailBone/Bone056/connectBone008/Bone045/Bone046/Bone047/Bone048
+        weight: 1
+      - path: TailBone/Bone056/connectBone008/Bone045/Bone046/Bone047/Bone048/Bone049
+        weight: 1
+      - path: TailBone/Bone056/connectBone009
+        weight: 1
+      - path: TailBone/Bone056/connectBone009/Bone050
+        weight: 1
+      - path: TailBone/Bone056/connectBone009/Bone050/Bone051
+        weight: 1
+      - path: TailBone/Bone056/connectBone009/Bone050/Bone051/Bone052
+        weight: 1
+      - path: TailBone/Bone056/connectBone009/Bone050/Bone051/Bone052/Bone053
+        weight: 1
+      - path: TailBone/Bone056/connectBone009/Bone050/Bone051/Bone052/Bone053/Bone054
+        weight: 1
+      - path: TailBone/Bone056/connectBone012
+        weight: 1
+      - path: TailBone/Bone056/connectBone012/Bone023
+        weight: 1
+      - path: TailBone/Bone056/connectBone012/Bone023/Bone024
+        weight: 1
+      - path: TailBone/Bone056/connectBone012/Bone023/Bone024/Bone025
+        weight: 1
+      - path: TailBone/Bone056/connectBone012/Bone023/Bone024/Bone025/Bone026
+        weight: 1
+      - path: TailBone/Bone056/connectBone013
+        weight: 1
+      - path: TailBone/Bone056/connectBone013/Bone061
+        weight: 1
+      - path: TailBone/Bone056/connectBone013/Bone061/Bone062
+        weight: 1
+      - path: TailBone/Bone056/connectBone013/Bone061/Bone062/Bone063
+        weight: 1
+      - path: TailBone/Bone056/connectBone013/Bone061/Bone062/Bone063/Bone064
+        weight: 1
+      - path: TailBone/Bone056/EndOfButt
+        weight: 1
+      - path: TailBone/Bone056/EndOfButt/Bone058
+        weight: 1
+      - path: TailBone/Bone056/EndOfButt/Bone058/Chest 1
+        weight: 1
+      - path: TailBone/Bone056/EndOfButt/Bone058/Chest 1/Bone060
+        weight: 1
+      - path: TailBone/Bone056/EndOfButt/Bone058/Chest 1/Bone060/connectBone007
+        weight: 1
+      - path: TailBone/Bone056/EndOfButt/Bone058/Chest 1/Bone060/connectBone007/Head
+          1
+        weight: 1
+      - path: TailBone/Bone056/EndOfButt/Bone058/Chest 1/Bone060/connectBone007/Head
+          1/Bone005
+        weight: 1
+      - path: TailBone/Bone056/EndOfButt/Bone058/Chest 1/Bone060/connectBone007/Head
+          1/Bone005/Bone006
+        weight: 1
+      - path: TailBone/Bone056/EndOfButt/Bone058/Chest 1/Bone060/connectBone007/Head
+          1/Bone005/Bone006/connectBone001
+        weight: 1
+      - path: TailBone/Bone056/EndOfButt/Bone058/Chest 1/Bone060/connectBone007/Head
+          1/Bone005/Bone006/connectBone001/Head_leg_up_Right
+        weight: 1
+      - path: TailBone/Bone056/EndOfButt/Bone058/Chest 1/Bone060/connectBone007/Head
+          1/Bone005/Bone006/connectBone001/Head_leg_up_Right/Bone031
+        weight: 1
+      - path: TailBone/Bone056/EndOfButt/Bone058/Chest 1/Bone060/connectBone007/Head
+          1/Bone005/Bone006/connectBone001/Head_leg_up_Right/Bone031/Bone032
+        weight: 1
+      - path: TailBone/Bone056/EndOfButt/Bone058/Chest 1/Bone060/connectBone007/Head
+          1/Bone005/Bone006/connectBone001/Head_leg_up_Right/Bone031/Bone032/Bone033
+        weight: 1
+      - path: TailBone/Bone056/EndOfButt/Bone058/Chest 1/Bone060/connectBone007/Head
+          1/Bone005/Bone006/connectBone001/Head_leg_up_Right/Bone031/Bone032/Bone033/Bone034
+        weight: 1
+      - path: TailBone/Bone056/EndOfButt/Bone058/Chest 1/Bone060/connectBone007/Head
+          1/Bone005/Bone006/connectBone002
+        weight: 1
+      - path: TailBone/Bone056/EndOfButt/Bone058/Chest 1/Bone060/connectBone007/Head
+          1/Bone005/Bone006/connectBone002/Mouth_Pincer_Right_base
+        weight: 1
+      - path: TailBone/Bone056/EndOfButt/Bone058/Chest 1/Bone060/connectBone007/Head
+          1/Bone005/Bone006/connectBone002/Mouth_Pincer_Right_base/Mouth_Pincer_Right
+        weight: 1
+      - path: TailBone/Bone056/EndOfButt/Bone058/Chest 1/Bone060/connectBone007/Head
+          1/Bone005/Bone006/connectBone002/Mouth_Pincer_Right_base/Mouth_Pincer_Right/Bone022
+        weight: 1
+      - path: TailBone/Bone056/EndOfButt/Bone058/Chest 1/Bone060/connectBone007/Head
+          1/Bone005/Bone006/connectBone002/Mouth_Pincer_Right_base/Mouth_Pincer_Right/Bone022/Bone023
+          1
+        weight: 1
+      - path: TailBone/Bone056/EndOfButt/Bone058/Chest 1/Bone060/connectBone007/Head
+          1/Bone005/Bone006/connectBone002/Mouth_Pincer_Right_base/Mouth_Pincer_Right/Bone022/Bone023
+          1/Bone024 1
+        weight: 1
+      - path: TailBone/Bone056/EndOfButt/Bone058/Chest 1/Bone060/connectBone007/Head
+          1/Bone005/Bone006/connectBone003
+        weight: 1
+      - path: TailBone/Bone056/EndOfButt/Bone058/Chest 1/Bone060/connectBone007/Head
+          1/Bone005/Bone006/connectBone003/Mouth_Pincer_Left_Base
+        weight: 1
+      - path: TailBone/Bone056/EndOfButt/Bone058/Chest 1/Bone060/connectBone007/Head
+          1/Bone005/Bone006/connectBone003/Mouth_Pincer_Left_Base/Mouth_Pincer_Left
+        weight: 1
+      - path: TailBone/Bone056/EndOfButt/Bone058/Chest 1/Bone060/connectBone007/Head
+          1/Bone005/Bone006/connectBone003/Mouth_Pincer_Left_Base/Mouth_Pincer_Left/Bone017
+        weight: 1
+      - path: TailBone/Bone056/EndOfButt/Bone058/Chest 1/Bone060/connectBone007/Head
+          1/Bone005/Bone006/connectBone003/Mouth_Pincer_Left_Base/Mouth_Pincer_Left/Bone017/Bone018
+        weight: 1
+      - path: TailBone/Bone056/EndOfButt/Bone058/Chest 1/Bone060/connectBone007/Head
+          1/Bone005/Bone006/connectBone003/Mouth_Pincer_Left_Base/Mouth_Pincer_Left/Bone017/Bone018/Bone019
+        weight: 1
+      - path: TailBone/Bone056/EndOfButt/Bone058/Chest 1/Bone060/connectBone007/Head
+          1/Bone005/Bone006/connectBone004
+        weight: 1
+      - path: TailBone/Bone056/EndOfButt/Bone058/Chest 1/Bone060/connectBone007/Head
+          1/Bone005/Bone006/connectBone004/Head_leg_Up_Left
+        weight: 1
+      - path: TailBone/Bone056/EndOfButt/Bone058/Chest 1/Bone060/connectBone007/Head
+          1/Bone005/Bone006/connectBone004/Head_leg_Up_Left/aweqwe
+        weight: 1
+      - path: TailBone/Bone056/EndOfButt/Bone058/Chest 1/Bone060/connectBone007/Head
+          1/Bone005/Bone006/connectBone004/Head_leg_Up_Left/aweqwe/qweqwe 1
+        weight: 1
+      - path: TailBone/Bone056/EndOfButt/Bone058/Chest 1/Bone060/connectBone007/Head
+          1/Bone005/Bone006/connectBone004/Head_leg_Up_Left/aweqwe/qweqwe 1/qweqwe
+          3
+        weight: 1
+      - path: TailBone/Bone056/EndOfButt/Bone058/Chest 1/Bone060/connectBone007/Head
+          1/Bone005/Bone006/connectBone004/Head_leg_Up_Left/aweqwe/qweqwe 1/qweqwe
+          3/qweqw
+        weight: 1
+      - path: TailBone/Bone056/EndOfButt/Bone058/Chest 1/Bone060/connectBone007/Head
+          1/Bone005/Bone006/connectBone005
+        weight: 1
+      - path: TailBone/Bone056/EndOfButt/Bone058/Chest 1/Bone060/connectBone007/Head
+          1/Bone005/Bone006/connectBone005/Head_leg_Low_left
+        weight: 1
+      - path: TailBone/Bone056/EndOfButt/Bone058/Chest 1/Bone060/connectBone007/Head
+          1/Bone005/Bone006/connectBone005/Head_leg_Low_left/qweqwe
+        weight: 1
+      - path: TailBone/Bone056/EndOfButt/Bone058/Chest 1/Bone060/connectBone007/Head
+          1/Bone005/Bone006/connectBone005/Head_leg_Low_left/qweqwe/qwe
+        weight: 1
+      - path: TailBone/Bone056/EndOfButt/Bone058/Chest 1/Bone060/connectBone007/Head
+          1/Bone005/Bone006/connectBone005/Head_leg_Low_left/qweqwe/qwe/qweqwe 4
+        weight: 1
+      - path: TailBone/Bone056/EndOfButt/Bone058/Chest 1/Bone060/connectBone007/Head
+          1/Bone005/Bone006/connectBone005/Head_leg_Low_left/qweqwe/qwe/qweqwe 4/ewqqq
+        weight: 1
+      - path: TailBone/Bone056/EndOfButt/Bone058/Chest 1/Bone060/connectBone007/Head
+          1/Bone005/Bone006/connectBone006
+        weight: 1
+      - path: TailBone/Bone056/EndOfButt/Bone058/Chest 1/Bone060/connectBone007/Head
+          1/Bone005/Bone006/connectBone006/Head_leg_Low_right
+        weight: 1
+      - path: TailBone/Bone056/EndOfButt/Bone058/Chest 1/Bone060/connectBone007/Head
+          1/Bone005/Bone006/connectBone006/Head_leg_Low_right/eqweqwe
+        weight: 1
+      - path: TailBone/Bone056/EndOfButt/Bone058/Chest 1/Bone060/connectBone007/Head
+          1/Bone005/Bone006/connectBone006/Head_leg_Low_right/eqweqwe/qweqwe 2
+        weight: 1
+      - path: TailBone/Bone056/EndOfButt/Bone058/Chest 1/Bone060/connectBone007/Head
+          1/Bone005/Bone006/connectBone006/Head_leg_Low_right/eqweqwe/qweqwe 2/qweqwe
+          5
+        weight: 1
+      - path: TailBone/Bone056/EndOfButt/Bone058/Chest 1/Bone060/connectBone007/Head
+          1/Bone005/Bone006/connectBone006/Head_leg_Low_right/eqweqwe/qweqwe 2/qweqwe
+          5/qweqwe 6
+        weight: 1
+      - path: TailBone/Bone056/EndOfButt/Bone058/Chest 1/Bone060/connectBone010
+        weight: 1
+      - path: TailBone/Bone056/EndOfButt/Bone058/Chest 1/Bone060/connectBone010/L_Arm_Upper
+        weight: 1
+      - path: TailBone/Bone056/EndOfButt/Bone058/Chest 1/Bone060/connectBone010/L_Arm_Upper/L_Arm_Joint
+        weight: 1
+      - path: TailBone/Bone056/EndOfButt/Bone058/Chest 1/Bone060/connectBone010/L_Arm_Upper/L_Arm_Joint/L_Arm_Lower
+        weight: 1
+      - path: TailBone/Bone056/EndOfButt/Bone058/Chest 1/Bone060/connectBone010/L_Arm_Upper/L_Arm_Joint/L_Arm_Lower/Bone010
+        weight: 1
+      - path: TailBone/Bone056/EndOfButt/Bone058/Chest 1/Bone060/connectBone011
+        weight: 1
+      - path: TailBone/Bone056/EndOfButt/Bone058/Chest 1/Bone060/connectBone011/R_Arm_Upper
+        weight: 1
+      - path: TailBone/Bone056/EndOfButt/Bone058/Chest 1/Bone060/connectBone011/R_Arm_Upper/Bone012
+        weight: 1
+      - path: TailBone/Bone056/EndOfButt/Bone058/Chest 1/Bone060/connectBone011/R_Arm_Upper/Bone012/Bone013
+        weight: 1
+      - path: TailBone/Bone056/EndOfButt/Bone058/Chest 1/Bone060/connectBone011/R_Arm_Upper/Bone012/Bone013/Bone014
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
